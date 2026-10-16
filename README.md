@@ -1,9 +1,8 @@
 # Hi, I'm Kauan! 👋
 
-🎓 Systems Analysis and Development student at UNINOVE  
-💻 Focused on Backend Development with C# and .NET  
-🚀 Building REST APIs and database-driven applications  
-📚 Continuously learning and improving my software development skills
+I'm a Systems Analysis and Development student at UNINOVE, focused on Backend Development with C# and .NET.
+
+I build REST APIs and database-driven applications, working with ASP.NET Core, Entity Framework Core, SQL Server, and ADO.NET. I'm continuously improving my skills through hands-on projects and looking for my first opportunity in software development.
 
 ## 🛠️ Technologies & Tools
 
@@ -33,4 +32,4 @@ Seeking my first opportunity in software development, with a focus on Backend .N
 ## 📫 Contact
 
 - **GitHub:** [kauanbackend](https://github.com/kauanbackend)
-- **LinkedIn:** [Kauan Da Silva](https://linkedin.com/in/kauan-da-silva-93a88b3b5)
+- **LinkedIn:** [Kauan da Silva](https://linkedin.com/in/kauan-da-silva-93a88b3b5)
